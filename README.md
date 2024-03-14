@@ -7,6 +7,7 @@ Forked from [LazyVim](https://github.com/LazyVim/LazyVim).
 * [fd](https://github.com/sharkdp/fd)
 * [direnv](https://direnv.net/): For python virtualenv workflow
 * [Nerd Font](https://github.com/ryanoasis/nerd-fonts#font-installation): For icons
+* [Lazygit](https://github.com/jesseduffield/lazygit)
 
 
 #### [iterm](https://iterm2.com/) specific configurations
